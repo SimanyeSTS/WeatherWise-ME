@@ -1,0 +1,11 @@
+{
+    "name": "weatherwise-backend",
+    "version-string": "1.0.0",
+    "dependencies": [
+        "curl",
+        "nlohmann-json",
+        "fmt",
+        "spdlog",
+        "cpp-httplib"
+    ]
+}

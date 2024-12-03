@@ -1,6 +1,6 @@
 #pragma once
 #include <memory>
-#include "weather_api/weather_client.hpp"
+#include "weather_api/weather_client.cpp"
 
 class HttpServer {
 public:
